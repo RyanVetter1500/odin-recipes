@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I used header, paragraph, image, link, and list tags to create a website dispaying three different recipes. I had a main page (index.html) that would redirect to the individual recipe pages.
