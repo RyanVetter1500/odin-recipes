@@ -1,0 +1,20 @@
+h1{ color: green;
+}
+
+body{background-color: aqua;}
+
+.font{font-family: 'Courier New', Courier, monospace;}
+
+li{line-height: 4cm;}
+
+img{
+
+    width: 40%;
+    height: auto;
+    position: relative; right: -800px; 
+    
+    top: -500px;
+
+
+
+}
